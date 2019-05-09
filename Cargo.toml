@@ -1,5 +1,5 @@
 [package]
-name = "RustyLisp"
+name = "rusty_lisp"
 version = "0.1.0"
 authors = ["Shogo Takata <pineapplehunter.daniel@gmail.com>"]
 edition = "2018"
