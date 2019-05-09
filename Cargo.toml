@@ -1,0 +1,7 @@
+[package]
+name = "RustyLisp"
+version = "0.1.0"
+authors = ["Shogo Takata <pineapplehunter.daniel@gmail.com>"]
+edition = "2018"
+
+[dependencies]
